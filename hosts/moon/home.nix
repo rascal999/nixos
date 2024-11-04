@@ -16,10 +16,11 @@
     bat
     exa
     zoxide
-    
+
     # Applications
     firefox
     chromium
+    curl
     vlc
   ];
 

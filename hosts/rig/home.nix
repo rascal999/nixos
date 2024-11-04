@@ -12,9 +12,10 @@
     # Tools
     tmux
     fzf
-    
+
     # Applications
     firefox
+    curl
     chromium
   ];
 
